@@ -1,3 +1,3 @@
 # ManikStudentLearner.github.io
-Hello their 
-I am Manik 
+# Hello their 
+# I am Manik 
